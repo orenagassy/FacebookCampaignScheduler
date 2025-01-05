@@ -2,27 +2,27 @@
 # These credentials are required to authenticate with the Facebook Marketing API
 facebook:
   # Application ID from Facebook Developers Console
-  app_id: '1106003007980496'
+  app_id: ''
   # Application secret key from Facebook Developers Console
-  app_secret: '9ae605ca7d687b1ae4ba71e6132a9ad2'
+  app_secret: ''
   # Access token with permissions to manage campaigns
   # This token must have ads_management permission
-  access_token: 'EAAPt52RpQ9ABO3NYYZCn6gfa5QNH53iRGj9Ft8Ridfwxv9pcz3cjoQhJwQZBZCXFSS5Tv66FJPcLVZAAj7IqWZAxp4PBrw1PwJgvyBm1Rbh3vfW3peZBZBWSZCkjgohZBaanZBHxoUU0C36xi97YcndXSqHmHV15uEyvFxKCPJOfHZBCFtYx6a50Y1J1IIZD'
+  access_token: ''
 
 # Timezone configuration (optional, defaults to Asia/Jerusalem if not specified)
 timezone: 'Asia/Jerusalem'
 
 # Account settings
 account:
-  id: 'act_321794391866301'  # Facebook Ad Account ID , **not** required as long as you have the campaign ids
+  id: 'act_'  # Facebook Ad Account ID , **not** required as long as you have the campaign ids
 
 # Campaign management configuration
 campaigns:
   # List of Facebook campaign IDs to manage
   # These campaigns will be activated/paused according to the schedule
   managed_campaigns:
-    - '120213612704420762'  # Example campaign ID
-    - '120213601988330762'  # Example campaign ID
+    - ''  # Example campaign ID
+    - ''  # Example campaign ID
   
   # Campaign status definitions
   status:
