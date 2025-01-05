@@ -1,0 +1,14 @@
+# Facebook Marketing API SDK
+facebook-business>=17.0.0
+
+# YAML configuration file handling
+PyYAML>=6.0.1
+
+# Timezone handling
+pytz>=2024.1
+
+# HTTP requests
+requests>=2.31.0
+
+# Note: These versions are the latest stable releases as of March 2024
+# Use pip install -r requirements.txt to install all dependencies 
